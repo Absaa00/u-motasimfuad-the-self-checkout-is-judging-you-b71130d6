@@ -1,0 +1,12 @@
+# self-checkout entry: local run artefacts only
+__pycache__/
+*.pyc
+*.pyo
+output/
+entry.txt
+.bundle/
+*.tar.gz
+*.log
+.DS_Store
+.vscode/
+.idea/
